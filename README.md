@@ -19,3 +19,11 @@ Este proyecto tiene como objetivo crear un portal de contenido donde eventualmen
 ### IV. Salida de build de producción
 
 ![Salida de build de producción](assets/01-build.png)
+
+## 02 fundamemntos-astro-practica
+
+![cards renderizados](/assets/02-cards-renderizados.png)
+Captura de http://localhost:4321 con los cards renderizados
+
+![about](/assets/02-about-funcionando.png)
+Captura de http://localhost:4321/about funcionando
